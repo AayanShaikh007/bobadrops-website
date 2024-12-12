@@ -1,0 +1,10 @@
+img {
+    width: 500px;
+    height: 300;
+}
+body {
+    text-align: center;
+    font-family:'Trebuchet MS';
+    background: black;
+    color: white;
+}
